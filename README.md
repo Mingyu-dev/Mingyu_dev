@@ -1,6 +1,6 @@
 # Mingyu_dev
 ## My personal repository
-hi everyone, I am Mingyu Zhao from China🇨🇳. 
+Hi everyone, I am Mingyu Zhao from China🇨🇳. 
 
 I am passionate about software engineering and I am seeking a intern or new grad opportunity for it.
 
